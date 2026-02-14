@@ -1,0 +1,12 @@
+[
+  {
+    "from_iban": "ES9121000418450200051332",
+    "to_iban": 912514650100971756460833,
+    "transfer_type": "URGENT",
+    "transfer_amount": 200.34,
+    "transfer_concept": "esto es una prueba",
+    "transfer_date": "12/04/2025",
+    "time_stamp": 1742601600.0,
+    "transfer_code": "194d8c4c13b119413de357ee0b85b156"
+  }
+]

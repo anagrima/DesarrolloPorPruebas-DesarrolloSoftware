@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_calculate_balance_tests.MyTestBalanceCase-20250325224659" tests="9" file="test_calculate_balance_tests.py" time="0.034" timestamp="2025-03-25T22:46:59" failures="0" errors="0" skipped="0">
+	<testcase classname="test_calculate_balance_tests.MyTestBalanceCase" name="test1_valid" time="0.016" timestamp="2025-03-25T22:46:59"/>
+	<testcase classname="test_calculate_balance_tests.MyTestBalanceCase" name="test2_invalid" time="0.000" timestamp="2025-03-25T22:46:59"/>
+	<testcase classname="test_calculate_balance_tests.MyTestBalanceCase" name="test3_invalid" time="0.000" timestamp="2025-03-25T22:46:59"/>
+	<testcase classname="test_calculate_balance_tests.MyTestBalanceCase" name="test4_invalid" time="0.002" timestamp="2025-03-25T22:46:59"/>
+	<testcase classname="test_calculate_balance_tests.MyTestBalanceCase" name="test5_invalid" time="0.000" timestamp="2025-03-25T22:46:59"/>
+	<testcase classname="test_calculate_balance_tests.MyTestBalanceCase" name="test6_valid" time="0.000" timestamp="2025-03-25T22:46:59"/>
+	<testcase classname="test_calculate_balance_tests.MyTestBalanceCase" name="test7_1_valid" time="0.000" timestamp="2025-03-25T22:46:59"/>
+	<testcase classname="test_calculate_balance_tests.MyTestBalanceCase" name="test7_2_valid" time="0.016" timestamp="2025-03-25T22:46:59"/>
+	<testcase classname="test_calculate_balance_tests.MyTestBalanceCase" name="test7_3_valid" time="0.000" timestamp="2025-03-25T22:46:59"/>
+</testsuite>
